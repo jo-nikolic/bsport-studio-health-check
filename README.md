@@ -11,7 +11,7 @@ A campaign concept for [bsport](https://pro.bsport.io), built around the researc
 
 ## The idea
 
-bsport's strongest converting segment is studios adopting management software for the first time — owners who are running on spreadsheets, messages and memory. That audience doesn't respond well to a product pitch, but they do respond to being told, specifically, what's costing them money.
+Starting with the assumption that bsport's strongest converting segment is studios adopting management software for the first time — owners who are running on spreadsheets, messages and memory. Another assumption based on the shared data is that the audience doesn't respond well to a product pitch, but they do respond to being told, specifically, what's costing them money.
 
 So the campaign leads with a diagnostic instead of a demo.
 
